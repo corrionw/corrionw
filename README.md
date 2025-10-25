@@ -1,4 +1,5 @@
 Hello!
+I'm corr, and I primarily program with LuaU for Roblox.
 
 
 <!---
